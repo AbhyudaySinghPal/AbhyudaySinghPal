@@ -10,3 +10,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Anime Lover // Movie Geek // Low-End Gamer
 
+![Abhyuday's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhyudaySinghPal&show_icons=true&theme=radical)
