@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Automation for Security Application.
 - 🌱 I’m currently learning Docker,Kubernetes,Jenkins.
 - 👯 I’m looking to collaborate on Automation projects.
